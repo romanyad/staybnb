@@ -2,9 +2,9 @@ import { SafeUser } from "@/app/types";
 
 import Categories from "./Categories";
 import Container from "../Container";
-import Logo from './logo';
 import Search from "./Search";
 import UserMenu from "./UserMenu";
+import Logo from './logo';
 
 interface NavbarProps {
   currentUser?: SafeUser | null;
