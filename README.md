@@ -1,7 +1,5 @@
 # This repository hosts a comprehensive Airbnb Clone with Next.js 13 App Router. The stack includes React, Tailwind, Prisma, MongoDB, and NextAuth for a full-fledged application.
 
-![Copy of Fullstack Twitter Clone (8)](https://user-images.githubusercontent.com/23248726/229031522-64a49ad0-66f7-4ea8-94a8-f64a0bb56736.png)
-
 
 This repository hosts a comprehensive Airbnb Clone with Next.js 13 App Router. The stack includes React, Tailwind, Prisma, MongoDB, and NextAuth for a full-fledged application.
 
